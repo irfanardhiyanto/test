@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Tweet</label>
+	</settings>
+	<users>
+		<user>
+			<path>Tweet.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Tweet.jcp</path>
+		</project>
+	</projects>
+</workspace>
